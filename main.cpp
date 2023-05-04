@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include "lcd.hpp"
 #include "Display.h"
 
 Display display(3, 5, 7);
